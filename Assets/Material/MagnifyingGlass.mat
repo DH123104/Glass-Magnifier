@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MagnifyingGlass
+  m_Shader: {fileID: 4800000, guid: 89bccd64db819c44c8e6e790173781de, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FoliageTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpaqueTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Amount: 0.5
+    - _ComplicatedAmount1: 0.5
+    - _ComplicatedAmount2: 0.5
+    - _ComplicatedAmount3: 0.5
+    - _ComplicatedAmount4: 0.5
+    - _ComplicatedAmount5: 0.5
+    - _ComplicatedAmount6: 0.5
+    - _ComplicatedAmount7: 0.5
+    - _ComplicatedAmount8: 0.5
+    - _ComplicatedRadiusInner1: 0.3
+    - _ComplicatedRadiusInner2: 0.3
+    - _ComplicatedRadiusInner3: 0.3
+    - _ComplicatedRadiusInner4: 0.3
+    - _ComplicatedRadiusInner5: 0.3
+    - _ComplicatedRadiusInner6: 0.3
+    - _ComplicatedRadiusInner7: 0.3
+    - _ComplicatedRadiusInner8: 0.3
+    - _ComplicatedRadiusOuter1: 1
+    - _ComplicatedRadiusOuter2: 1
+    - _ComplicatedRadiusOuter3: 1
+    - _ComplicatedRadiusOuter4: 1
+    - _ComplicatedRadiusOuter5: 1
+    - _ComplicatedRadiusOuter6: 1
+    - _ComplicatedRadiusOuter7: 1
+    - _ComplicatedRadiusOuter8: 1
+    - _FishEyeAmount: 0.26428568
+    - _MaskLerp: 0.85
+    - _SimpleAmount1: 0.5
+    - _SimpleAmount2: 0.5
+    - _SimpleAmount3: 0.5
+    - _SimpleAmount4: 0.5
+    - _SimpleAmount5: 0.5
+    - _SimpleAmount6: 0.5
+    - _SimpleAmount7: 0.5
+    - _SimpleAmount8: 0.5
+    - _SimpleFadingEdge: 0.02
+    m_Colors:
+    - _CenterRadial: {r: 0, g: 0, b: 0.1, a: 0.1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ComplicatedCenter1: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _ComplicatedCenterRadial1: {r: 0.5207468, g: 0.497412, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial2: {r: 0.3, g: 0.4, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial3: {r: 0.3, g: 0.6, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial4: {r: 0.3, g: 0.8, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial5: {r: 0.6, g: 0.2, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial6: {r: 0.6, g: 0.4, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial7: {r: 0.6, g: 0.6, b: 0.1, a: 0.1}
+    - _ComplicatedCenterRadial8: {r: 0.6, g: 0.8, b: 0.1, a: 0.1}
+    - _FishEyeCenter: {r: 0.91434467, g: 0.85945946, b: 0, a: 0}
+    - _SimpleBrightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SimpleCenterRadial1: {r: 0.5207468, g: 0.497412, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial2: {r: 0.3, g: 0.4, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial3: {r: 0.3, g: 0.6, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial4: {r: 0.3, g: 0.8, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial5: {r: 0.6, g: 0.2, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial6: {r: 0.6, g: 0.4, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial7: {r: 0.6, g: 0.6, b: 0.1, a: 0.1}
+    - _SimpleCenterRadial8: {r: 0.6, g: 0.8, b: 0.1, a: 0.1}
+    - _SimpleDarkColor: {r: 0.39215687, g: 0.39215687, b: 0.39215687, a: 1}
+  m_BuildTextureStacks: []
