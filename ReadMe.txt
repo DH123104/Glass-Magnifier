@@ -1,6 +1,3 @@
-Thank you for downloading Magnifying Glass package !
-This package will bring an amazing "magnifying glass" effect to your game.
-
 Magnifying effect is designed as a fullscreen postprocess effect.
 The shader has two exposed input parameters.
   1. _CenterRadial ( Vector4 )
